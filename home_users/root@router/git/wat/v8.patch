@@ -1,0 +1,91 @@
+cat v8.patch
+
+
+
+
+diff --git a/src/wasm/baseline/liftoff-compiler.cc b/src/wasm/baseline/liftoff-compiler.cc
+index f0887de..2a33875 100644
+--- a/src/wasm/baseline/liftoff-compiler.cc
++++ b/src/wasm/baseline/liftoff-compiler.cc
+@@ -3618,6 +3618,10 @@ class LiftoffCompiler {
+     CallRef(decoder, func_ref.type, sig, kTailCall);
+   }
+
++  void JmpRel(FullDecoder* decoder, int32_t value) {
++    __ jmp_rel(value);
++  }
++
+   void BrOnNull(FullDecoder* decoder, const Value& ref_object, uint32_t depth,
+                 bool pass_null_along_branch,
+                 Value* /* result_on_fallthrough */) {
+diff --git a/src/wasm/function-body-decoder-impl.h b/src/wasm/function-body-decoder-impl.h
+index dd9e3b0..183ddfb 100644
+--- a/src/wasm/function-body-decoder-impl.h
++++ b/src/wasm/function-body-decoder-impl.h
+@@ -1057,6 +1057,7 @@ struct ControlBase : public PcForErrors<ValidationTag::full_validation> {
+   F(ReturnCall, const CallFunctionImmediate& imm, const Value args[])          \
+   F(ReturnCallIndirect, const Value& index, const CallIndirectImmediate& imm,  \
+     const Value args[])                                                        \
++  F(JmpRel, uint32_t)                                                          \
+   F(BrOnNull, const Value& ref_object, uint32_t depth,                         \
+     bool pass_null_along_branch, Value* result_on_fallthrough)                 \
+   F(BrOnNonNull, const Value& ref_object, Value* result, uint32_t depth,       \
+@@ -1928,6 +1929,11 @@ class WasmDecoder : public Decoder {
+         (ios.TagIndex(imm), ...);
+         return 1 + imm.length;
+       }
++      case kExprJmpRel: {
++        ImmI32Immediate imm(decoder, pc + 1, validate);
++        (ios.I32Const(imm), ...);
++        return 1 + imm.length;
++      }
+
+       /********** Misc opcodes **********/
+       case kExprCallFunction:
+@@ -3232,6 +3238,12 @@ class WasmFullDecoder : public WasmDecoder<ValidationTag, decoding_mode> {
+     return 1;
+   }
+
++  DECODE(JmpRel) {
++    ImmI32Immediate imm(this, this->pc_ + 1, validate);
++    CALL_INTERFACE_IF_OK_AND_REACHABLE(JmpRel, imm.value);
++    return 1 + imm.length;
++  }
++
+   DECODE(BrOnNull) {
+     CHECK_PROTOTYPE_OPCODE(typed_funcref);
+     BranchDepthImmediate imm(this, this->pc_ + 1, validate);
+@@ -3979,6 +3991,7 @@ class WasmFullDecoder : public WasmDecoder<ValidationTag, decoding_mode> {
+     DECODE_IMPL(Catch);
+     DECODE_IMPL(Delegate);
+     DECODE_IMPL(CatchAll);
++    DECODE_IMPL(JmpRel);
+     DECODE_IMPL(BrOnNull);
+     DECODE_IMPL(BrOnNonNull);
+     DECODE_IMPL(Loop);
+diff --git a/src/wasm/graph-builder-interface.cc b/src/wasm/graph-builder-interface.cc
+index 939b9f2..a9db486 100644
+--- a/src/wasm/graph-builder-interface.cc
++++ b/src/wasm/graph-builder-interface.cc
+@@ -942,6 +942,9 @@ class WasmGraphBuildingInterface {
+                  CallInfo::CallRef(func_ref, NullCheckFor(func_ref.type)), sig,
+                  args);
+   }
++  void JmpRel(FullDecoder* decoder, int32_t value) {
++    //TODO
++  }
+
+   void BrOnNull(FullDecoder* decoder, const Value& ref_object, uint32_t depth,
+                 bool pass_null_along_branch, Value* result_on_fallthrough) {
+diff --git a/src/wasm/wasm-opcodes.h b/src/wasm/wasm-opcodes.h
+index 6d55228..7008b6f 100644
+--- a/src/wasm/wasm-opcodes.h
++++ b/src/wasm/wasm-opcodes.h
+@@ -51,6 +51,7 @@ V8_EXPORT_PRIVATE bool IsJSCompatibleSignature(const FunctionSig* sig);
+   V(CatchAll, 0x19, _, "catch_all")                            \
+   V(BrOnNull, 0xd4, _, "br_on_null")        /* gc prototype */ \
+   V(BrOnNonNull, 0xd6, _, "br_on_non_null") /* gc prototype */ \
++  V(JmpRel, 0xcc, _, "jmp")                                    \
+   V(NopForTestingUnsupportedInLiftoff, 0x16, _, "nop_for_testing")
+
+ // Constants, locals, globals, and calls.

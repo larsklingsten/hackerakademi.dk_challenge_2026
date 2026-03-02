@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+    <div class="login-container">
+        <div class="login-box">
+            <h1>🔐</h1>
+            <h2>Secrets</h2>
+            <h3>SSH Credentials</h3><pre>Username: user
+Password: hunter2</pre>
+        </div>
+    </div>
+</body>
+</html>

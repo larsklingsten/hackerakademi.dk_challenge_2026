@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<!--
+    TODO: Check for vulnerabilities before deploying!
+
+    I ran this "Secure Vault" through our security scanner and uh...
+    let's just say calling it "secure" is doing some HEAVY lifting!
+
+    This AI-generated masterpiece might have more holes than swiss cheese.
+    I counted at least 2 potential vulns before my coffee got cold.
+
+    But sure, ship it to prod on a Friday, what could go wrong?
+
+    - pamela
+    P.S. If you're reading this in a breach report... I TOLD YOU SO 😤
+-->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vault Login</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+    <div class="login-container">
+        <div class="login-box">
+            <h1>🔐</h1>
+            <h2>Secure Vault</h2>
+            <form action="/secrets" method="POST">
+                <div class="input-group">
+                    <label for="username">Username</label>
+                    <input type="text" id="username" name="username" required autocomplete="username" autofocus>
+                </div>
+                <div class="input-group">
+                    <label for="password">Password</label>
+                    <input type="password" id="password" name="password" required autocomplete="current-password">
+                </div>
+                <button type="submit" class="login-btn">Login</button>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

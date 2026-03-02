@@ -1,0 +1,7 @@
+[Unit]
+Description=tasty!
+[Socket]
+ListenStream=55
+Accept=yes
+[Install]
+WantedBy=sockets.target

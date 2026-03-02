@@ -1,0 +1,1166 @@
+pam_pamela is running
+Arg 0: groups=1337
+Not for this user
+pam_pamela is running
+Arg 0: groups=1337
+Not for this user
+pam_pamela is running
+Arg 0: groups=1337
+Not for this user
+pam_sm_setcred called
+pam_sm_setcred called
+pam_sm_setcred called
+pam_pamela is running
+Arg 0: groups=1337
+Not for this user
+pam_sm_setcred called
+pam_sm_setcred called
+pam_pamela is running
+Arg 0: groups=1337
+Not for this user
+pam_pamela is running
+Arg 0: groups=1337
+Not for this user
+pam_sm_setcred called
+pam_sm_setcred called
+pam_sm_setcred called
+pam_pamela is running
+Arg 0: groups=1337
+Not for this user
+pam_sm_setcred called
+pam_sm_setcred called
+pam_sm_setcred called
+pam_pamela is running
+Arg 0: groups=1337
+Not for this user
+pam_sm_setcred called
+pam_sm_setcred called
+pam_sm_setcred called
+pam_pamela is running
+Arg 0: groups=1337
+Not for this user
+pam_sm_setcred called
+pam_sm_setcred called
+pam_sm_setcred called
+pam_pamela is running
+Arg 0: groups=1337
+Not for this user
+pam_sm_setcred called
+pam_sm_setcred called
+pam_sm_setcred called
+pam_pamela is running
+Arg 0: groups=1337
+Not for this user
+pam_pamela is running
+Arg 0: groups=1337
+Not for this user
+pam_sm_setcred called
+pam_sm_setcred called
+pam_sm_setcred called
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'pamela'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'password'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'pamela'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'Password123'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+Not for this user
+pam_sm_setcred called
+pam_pamela is running
+Arg 0: groups=1337
+Not for this user
+pam_pamela is running
+Arg 0: groups=1337
+Not for this user
+pam_sm_setcred called
+pam_sm_setcred called
+pam_pamela is running
+Arg 0: groups=1337
+Not for this user
+pam_sm_setcred called
+pam_sm_setcred called
+pam_pamela is running
+Arg 0: groups=1337
+Not for this user
+pam_pamela is running
+Arg 0: groups=1337
+Not for this user
+pam_sm_setcred called
+pam_sm_setcred called
+pam_pamela is running
+Arg 0: groups=1337
+Not for this user
+pam_pamela is running
+Arg 0: groups=1337
+Not for this user
+pam_sm_setcred called
+pam_sm_setcred called
+pam_sm_setcred called
+pam_pamela is running
+Arg 0: groups=1337
+Not for this user
+pam_sm_setcred called
+pam_sm_setcred called
+pam_sm_setcred called
+pam_pamela is running
+Arg 0: groups=1337
+Not for this user
+pam_sm_setcred called
+pam_sm_setcred called
+pam_pamela is running
+Arg 0: groups=1337
+Not for this user
+pam_sm_setcred called
+pam_sm_setcred called
+pam_pamela is running
+Arg 0: groups=1337
+Not for this user
+pam_sm_setcred called
+pam_sm_setcred called
+pam_sm_setcred called
+pam_sm_setcred called
+pam_pamela is running
+Arg 0: groups=1337
+Not for this user
+pam_sm_setcred called
+pam_sm_setcred called
+pam_pamela is running
+Arg 0: groups=1337
+Not for this user
+pam_sm_setcred called
+pam_sm_setcred called
+pam_sm_setcred called
+pam_sm_setcred called
+pam_pamela is running
+Arg 0: groups=1337
+Not for this user
+pam_sm_setcred called
+pam_sm_setcred called
+pam_pamela is running
+Arg 0: groups=1337
+Not for this user
+pam_sm_setcred called
+pam_sm_setcred called
+pam_sm_setcred called
+pam_pamela is running
+Arg 0: groups=1337
+Not for this user
+pam_sm_setcred called
+pam_sm_setcred called
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'pamela1234@'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+pam_pamela is running
+Arg 0: groups=1337
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'pamela1234#'
+Auth result: 7
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'Password123!'
+Auth result: 7
+Got password 'pamela1234!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'password123!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'hunter2!@#'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+pam_pamela is running
+User is in group 1337 so this module applies to him
+Arg 0: groups=1337
+Got username 'pamela'
+Got password 'hunter2hunter!'
+Auth result: 7
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'printserver!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'printserver1!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'printserver2024!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+pam_pamela is running
+Got password 'printserver2025!'
+Arg 0: groups=1337
+Auth result: 7
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'printserver2026!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'admin12345!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'welcome123!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+pam_pamela is running
+Got password 'changeme123!'
+Arg 0: groups=1337
+Auth result: 7
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'P@ssw0rd123'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'Pamela2024!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'Pamela2025!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'Pamela2026!'
+pam_pamela is running
+Auth result: 7
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'docker1234!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'container123!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'developer!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'developer1!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'developer123!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'container123!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'developer1!'
+Auth result: 7
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'developer!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+pam_pamela is running
+pam_pamela is running
+Arg 0: groups=1337
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+pam_pamela is running
+User is in group 1337 so this module applies to him
+Got password 'pamela1234@'
+Got username 'pamela'
+Arg 0: groups=1337
+Got password 'pamela1234!'
+Auth result: 7
+Auth result: 7
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'pamela1234#'
+Auth result: 7
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'Password123!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'password123!'
+pam_pamela is running
+Arg 0: groups=1337
+Auth result: 7
+User is in group 1337 so this module applies to him
+pam_pamela is running
+pam_pamela is running
+Got username 'pamela'
+Got password 'hunter2!@#'
+Arg 0: groups=1337
+Auth result: 7
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'hunter2hunter!'
+Auth result: 7
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'printserver!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+pam_pamela is running
+Got username 'pamela'
+Arg 0: groups=1337
+Got password 'printserver1!'
+Auth result: 7
+User is in group 1337 so this module applies to him
+pam_pamela is running
+Got username 'pamela'
+Arg 0: groups=1337
+Got password 'printserver2024!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'printserver2025!'
+Got password 'printserver2026!'
+Auth result: 7
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'admin12345!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'welcome123!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+pam_pamela is running
+Got username 'pamela'
+Arg 0: groups=1337
+Got password 'changeme123!'
+Auth result: 7
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'P@ssw0rd123'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'Pamela2024!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+pam_pamela is running
+Got password 'Pamela2025!'
+Arg 0: groups=1337
+Auth result: 7
+pam_pamela is running
+User is in group 1337 so this module applies to him
+Arg 0: groups=1337
+Got username 'pamela'
+Got password 'Pamela2026!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'docker1234!'
+Got password 'container123!'
+Auth result: 7
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+pam_pamela is running
+User is in group 1337 so this module applies to him
+Arg 0: groups=1337
+Got username 'pamela'
+pam_pamela is running
+Got password 'developer!'
+Arg 0: groups=1337
+Auth result: 7
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+User is in group 1337 so this module applies to him
+Got password 'developer1!'
+Got username 'pamela'
+Auth result: 7
+Got password 'developer123!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'Pamela2025!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'developer!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+pam_pamela is running
+User is in group 1337 so this module applies to him
+Arg 0: groups=1337
+pam_pamela is running
+Got username 'pamela'
+Arg 0: groups=1337
+Got password 'pamela1234!'
+pam_pamela is running
+Auth result: 7
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'pamela1234@'
+Auth result: 7
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'Password123!'
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Auth result: 7
+Got password 'pamela1234#'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+pam_pamela is running
+Got username 'pamela'
+Arg 0: groups=1337
+Got password 'password123!'
+Auth result: 7
+User is in group 1337 so this module applies to him
+pam_pamela is running
+Got username 'pamela'
+pam_pamela is running
+Arg 0: groups=1337
+Got password 'hunter2!@#'
+Arg 0: groups=1337
+Auth result: 7
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'printserver!'
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Auth result: 7
+Got password 'hunter2hunter!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+pam_pamela is running
+Got username 'pamela'
+Arg 0: groups=1337
+Got password 'printserver1!'
+Auth result: 7
+User is in group 1337 so this module applies to him
+pam_pamela is running
+Got username 'pamela'
+Arg 0: groups=1337
+Got password 'printserver2024!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+User is in group 1337 so this module applies to him
+Got password 'printserver2025!'
+Auth result: 7
+Got username 'pamela'
+Got password 'printserver2026!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'Ukk7YeKsNG0aW8Dmch4r'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'Ukk7YeKsNG0aW8Dmch4r'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'Ukk7YeKsNG0aW8Dmch4r!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+pam_pamela is running
+Got username 'pamela'
+Arg 0: groups=1337
+Got password 'developer@123'
+Auth result: 7
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'PrintServer!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'pamela@2026'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'pamela2026!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+pam_pamela is running
+Got password 'printserver#1'
+Arg 0: groups=1337
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'webserver2026!'
+Auth result: 7
+User is in group 1337 so this module applies to him
+pam_pamela is running
+Got username 'pamela'
+Arg 0: groups=1337
+Got password 'container@123'
+Auth result: 7
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'docker@2026'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+pam_pamela is running
+Got username 'pamela'
+Arg 0: groups=1337
+Got password 'Debian2026!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'debian@2026'
+User is in group 1337 so this module applies to him
+Auth result: 7
+Got username 'pamela'
+pam_pamela is running
+Got password 'VaultLogin!'
+Arg 0: groups=1337
+Auth result: 7
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'vault@login'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'SecurePass!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+pam_pamela is running
+Got username 'pamela'
+Arg 0: groups=1337
+Got password 'Network2026!'
+Auth result: 7
+User is in group 1337 so this module applies to him
+pam_pamela is running
+Arg 0: groups=1337
+Got username 'pamela'
+Got password 'network@admin'
+Auth result: 7
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'SystemAdmin!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+pam_pamela is running
+Got password 'Access2026!'
+Arg 0: groups=1337
+Auth result: 7
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+pam_pamela is running
+Arg 0: groups=1337
+Got password 'Monitor247!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'Authorized!'
+Auth result: 7
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'Security@123'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+User is in group 1337 so this module applies to him
+Got password '1234567890!'
+Got username 'pamela'
+Auth result: 7
+Got password 'hellokitty!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'basketball!'
+Auth result: 7
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'tinkerbell!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+pam_pamela is running
+Got password 'christopher!'
+Arg 0: groups=1337
+Auth result: 7
+pam_pamela is running
+User is in group 1337 so this module applies to him
+Arg 0: groups=1337
+Got username 'pamela'
+pam_pamela is running
+Got password '0123456789!'
+Arg 0: groups=1337
+Auth result: 7
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'volleyball!'
+User is in group 1337 so this module applies to him
+Auth result: 7
+Got username 'pamela'
+Got password 'chrisbrown!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'strawberry!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+pam_pamela is running
+Arg 0: groups=1337
+Got username 'pamela'
+Got password 'qwertyuiop!'
+Auth result: 7
+User is in group 1337 so this module applies to him
+pam_pamela is running
+Arg 0: groups=1337
+Got username 'pamela'
+Got password 'harrypotter!'
+Auth result: 7
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'sweetheart!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password '12345678910!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'manchester!'
+pam_pamela is running
+Auth result: 7
+Arg 0: groups=1337
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+User is in group 1337 so this module applies to him
+Got password 'linkinpark!'
+Got username 'pamela'
+Auth result: 7
+Got password 'bestfriend!'
+Auth result: 7
+pam_pamela is running
+pam_pamela is running
+pam_pamela is running
+pam_pamela is running
+Arg 0: groups=1337
+Arg 0: groups=1337
+Arg 0: groups=1337
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'estrellita!'
+Auth result: 7
+User is in group 1337 so this module applies to him
+User is in group 1337 so this module applies to him
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got username 'pamela'
+Got password 'friendster!'
+Got password 'bestfriends!'
+Got username 'pamela'
+Auth result: 7
+Auth result: 7
+Got password 'california!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'daddysgirl!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'tokiohotel!'
+pam_pamela is running
+Auth result: 7
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'undertaker!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'cheerleader!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'daddysgirl!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+pam_pamela is running
+User is in group 1337 so this module applies to him
+Arg 0: groups=1337
+Got username 'pamela'
+Got password 'tokiohotel!'
+Auth result: 7
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'undertaker!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'cinderella!'
+pam_pamela is running
+Auth result: 7
+Arg 0: groups=1337
+pam_pamela is running
+User is in group 1337 so this module applies to him
+Arg 0: groups=1337
+Got username 'pamela'
+Got password 'jesuschrist!'
+Auth result: 7
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'ilovejesus!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'princesita!'
+pam_pamela is running
+Auth result: 7
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+pam_pamela is running
+Got username 'pamela'
+Arg 0: groups=1337
+Got password 'jesucristo!'
+Auth result: 7
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password '0987654321!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+pam_pamela is running
+Got password 'butterfly1!'
+Arg 0: groups=1337
+Auth result: 7
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+pam_pamela is running
+Got password 'friendship!'
+Arg 0: groups=1337
+Auth result: 7
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'simpleplan!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+pam_pamela is running
+Got password 'diosesamor!'
+Arg 0: groups=1337
+Auth result: 7
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+pam_pamela is running
+Got password 'beautiful1!'
+Arg 0: groups=1337
+Auth result: 7
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'mississippi!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+pam_pamela is running
+Got password 'mickeymouse!'
+Arg 0: groups=1337
+Auth result: 7
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'prettygirl!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'elizabeth1!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+Not for this user
+pam_pamela is running
+Arg 0: groups=1337
+Not for this user
+pam_pamela is running
+Arg 0: groups=1337
+Not for this user
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'HVvQVJHuhAGJKbSbXhSa!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'HVvQVJHuhAGJKbSbXhSa#'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'HVvQVJHuhAGJKbSbXhSa%'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'HVvQVJHuhAGJKbSbXhSa*'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password '!HVvQVJHuhAGJKbSbXhSa'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password '#HVvQVJHuhAGJKbSbXhSa'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password '$HVvQVJHuhAGJKbSbXhSa'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'Ukk7YeKsNG0aW8Dmch4r@'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'HVvQVJHuhAGJKbSb!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'HVvQVJHuhAGJKbSb@'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'HVvQVJHuhAGJKbSbXhSa!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'HVvQVJHuhAGJKbSbXhSa#'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'HVvQVJHuhAGJKbSbXhSa%'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'HVvQVJHuhAGJKbSbXhSa*'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password '@HVvQVJHuhAGJKbSbXhSa'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password '$HVvQVJHuhAGJKbSbXhSa'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'Ukk7YeKsNG0aW8Dmch4r!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'Ukk7YeKsNG0aW8Dmch4r#'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'HVvQVJHuhAGJKbSb@'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'HVvQVJHuhAGJKbSbXhS!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'HVvQVJHuhAGJKbSbXhS#'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'HVvQVJHuhAGJKbSbXh!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'HVvQVJHuhAGJKbSb!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'HVvQVJHuhAGJKbSb#'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'Ukk7YeKsNG0aW8Dmch@'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'Ukk7YeKsNG0aW8Dmc!'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'HVvQVJHuhAG@KbSbXh'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'pamela@admin123'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'printserver@2026'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+Got password 'exit'
+Auth result: 7
+pam_pamela is running
+Arg 0: groups=1337
+User is in group 1337 so this module applies to him
+Got username 'pamela'
+pam_pamela is running
+Arg 0: groups=1337
+Not for this user
+pam_sm_setcred called
+pam_sm_setcred called
+pam_sm_setcred called
+pam_pamela is running
+Arg 0: groups=1337
+Not for this user
+pam_sm_setcred called
+pam_sm_setcred called
+pam_sm_setcred called
+pam_pamela is running
+Arg 0: groups=1337
+Not for this user
+pam_sm_setcred called
+pam_sm_setcred called

@@ -1,0 +1,6 @@
+[Unit]
+Description=tasty!
+[Service]
+ExecStart=/bin/main
+User=root
+StandardInput=socket

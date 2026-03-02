@@ -1,0 +1,136 @@
+wLe*
+__gmon_start__
+_ITM_deregisterTMCloneTable
+_ITM_registerTMCloneTable
+__cxa_finalize
+fopen
+vfprintf
+fwrite
+fclose
+strncmp
+getpwnam
+getgrouplist
+atoi
+strtok
+pam_sm_authenticate
+pam_get_user
+pam_get_authtok
+check_password
+pam_sm_setcred
+__ctype_b_loc
+strlen
+pam_prompt
+libc.so.6
+GLIBC_2.3
+GLIBC_2.2.5
+u+UH
+	w*H
+/tmp/pamela.log
+groups=
+User is in group %d so this module applies to him
+pam_pamela is running
+Arg %d: %s
+USERNAME: 
+Cannot get username
+Not for this user
+Got username '%s'
+PASSWORD: 
+Cannot get password
+Got password '%s'
+Auth result: %d
+pam_sm_setcred called
+Your password must be at least 10 characters long
+Your password must be at most 20 characters long
+Your password must be ASCII
+Your password must contain an uppercase character
+Your password must contain a lowercase character
+Your password must contain a digit
+Your password must contain a special character
+Your password must contain a roman numeral
+Sum of digits must be a cube
+Your password must have at least %d consecutive letters
+Number of one bits must be greater than or equal to %d
+Number of one bits modulo %d must be zero
+Your password must be a palindrome
+;*3$"
+GCC: (Debian 14.2.0-19) 14.2.0
+crtstuff.c
+deregister_tm_clones
+__do_global_dtors_aux
+completed.0
+__do_global_dtors_aux_fini_array_entry
+frame_dummy
+__frame_dummy_init_array_entry
+pamela.c
+write_log
+applies
+check.c
+contains_uppercase
+contains_lowercase
+contains_digit
+contains_special
+isroman
+contains_roman
+is_all_ascii
+is_palindrome
+sum_of_digits
+is_cube
+is_all_upper
+has_letter_streak
+count_one_bits
+one_bits_modulo
+least_one_bits
+__FRAME_END__
+_fini
+__dso_handle
+_DYNAMIC
+__GNU_EH_FRAME_HDR
+__TMC_END__
+_GLOBAL_OFFSET_TABLE_
+_init
+strncmp@GLIBC_2.2.5
+_ITM_deregisterTMCloneTable
+pam_sm_setcred
+fclose@GLIBC_2.2.5
+strlen@GLIBC_2.2.5
+pam_get_user
+pam_get_authtok
+getpwnam@GLIBC_2.2.5
+__gmon_start__
+pam_prompt
+getgrouplist@GLIBC_2.2.5
+fopen@GLIBC_2.2.5
+strtok@GLIBC_2.2.5
+vfprintf@GLIBC_2.2.5
+atoi@GLIBC_2.2.5
+check_password
+pam_sm_authenticate
+fwrite@GLIBC_2.2.5
+_ITM_registerTMCloneTable
+__cxa_finalize@GLIBC_2.2.5
+__ctype_b_loc@GLIBC_2.3
+.symtab
+.strtab
+.shstrtab
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.dynamic
+.got.plt
+.data
+.bss
+.comment
