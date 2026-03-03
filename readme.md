@@ -9,7 +9,8 @@
 ## FE hacker-akademi/challenge:
 - [hackerakademi.dk/challenge](https://hackerakademi.dk/challenge)
 
-## Offentligtgørelse?  [FEs readme](./readme_fe_hackerchallenge.md)
+## Offentligtgørelse? 
+- [FEs readme](./readme_fe_hackerchallenge.md)
 ```
 FE skriver 
 
