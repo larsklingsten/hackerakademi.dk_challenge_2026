@@ -10,8 +10,10 @@
 - Code Name: "Operation Bad Primate"
 - the flag is on root@printserver 
 ```
+
 ### versions
 ```sh
+- v1.01         # added 'Offentligtgørelse?' paragraph
 - v1.00         # Lars Klingsten | 2026-02-27 | reviewing notes && retesting cmds
 ```
 ### Credits: 
@@ -20,6 +22,15 @@
 - Walkthrough:  # Lars Klingsten (hack-fe-2026@ckhansen.dk), incl files 
 - Date:         # 2026-02-27
 ```
+
+### Offentligtgørelse?  [FE intro](./readme_fe_hackerchallenge.md)
+```
+FE skriver 
+
+"Vi vil opfordre dig til at tage hensyn til andre operatører; uopfordrede spoilers kan opleves som ærgerlige. Når deadline er overstået, vil vi dog blive glade for at se offentlige writeups."
+```
+
+
 ### Downloads
 ```sh
 Installations/guidance from the author:
