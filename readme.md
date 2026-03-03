@@ -14,7 +14,9 @@
 ```
 FE skriver 
 
-"Vi vil opfordre dig til at tage hensyn til andre operatører; uopfordrede spoilers kan opleves som ærgerlige. Når deadline er overstået, vil vi dog blive glade for at se offentlige writeups."
+"Vi vil opfordre dig til at tage hensyn til andre operatører; uopfordrede 
+spoilers kan opleves som ærgerlige. Når deadline er overstået, 
+vil vi dog blive glade for at se offentlige writeups."
 ```
 
 ## Questions?
